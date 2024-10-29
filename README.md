@@ -5,7 +5,7 @@
 プレイヤーのじゃんけんの手から、AIが勝てる確率の高い手を選択する。
 
 ##③アプリのデプロイURL   
-デプロイしている場合はURLを記入（任意）
+https://zakkey-gh.github.io/JakenRich_1/
 
 ##④アプリのログイン用IDまたはPassword（ある場合）   
 ID: なし   
